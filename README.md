@@ -1,6 +1,6 @@
 # Countries Atlas
 
-Explore every country in the world — search by name, filter by region, and drill into a detail view with neighbouring countries. Built with React and TypeScript, powered by the free REST Countries API.
+Explore every country in the world — search by name, filter by region, and drill into a detail view with neighbouring countries. Built with React and TypeScript, using the open `mledoze/countries` dataset (served via the jsDelivr CDN) with flags from flagcdn.
 
 **Live demo:** https://refm130995.github.io/countries-atlas/
 
